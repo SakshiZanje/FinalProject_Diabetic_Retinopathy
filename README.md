@@ -10,7 +10,7 @@ First go through the analysis phase
 
 Second, Go through process_2 phase
   1. Do data splitting making for ready for training.
-  2. Do preprocessing on the data set and sving to another folder
+  2. Do preprocessing on the data set and saving it to another folder.
   
 Third, for training go through DR_colab phase
   1. For training i have used google colab
