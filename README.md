@@ -30,8 +30,8 @@ You can download this dataset from this link:
 https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
 # CNN Models
-• ResNet50
-• VGG16
+1. ResNet50
+2. VGG16
 
 # Steps for the project:
 
