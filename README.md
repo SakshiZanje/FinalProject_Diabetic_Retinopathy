@@ -22,7 +22,7 @@ NPDR is further subdivided into
 
 # System Architecture
 Figure represents our proposed system architecture. Here, In First phase I have used ATPOS 2019 kaggle dataset from which input image is taken. Then in second phase Preprocessing is done on the dataset so that training of model will imporve. In this phase various technique like cropping, resizing, conveting to gray and gaussian blur is has applied. Then in third phase of architecture feature extraction is there which includes various features like Microaneurysm, exudates, hemorrhages and blood vessesl. Here, in this phase varois features are extracted and then in fourth phase classification is done. Classification is done by detecting it has Dr or No DR.
-![system](https://user-images.githubusercontent.com/69428803/122645964-a6b32a00-d13a-11eb-81b8-6adc622624d9.png)
+                        ![system](https://user-images.githubusercontent.com/69428803/122645964-a6b32a00-d13a-11eb-81b8-6adc622624d9.png)
 
 
 # Dataset 
